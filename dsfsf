@@ -1,0 +1,26 @@
+[33mcommit d488d9e7791f273dcdf136b74e22c537398a626e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <Magdalena Grabowska@Komputer-Magda.tmatic.local>
+Date:   Sat Sep 8 22:35:32 2018 +0200
+
+    My first commit
+
+[33mcommit 89b651f3c012468eaa826f501c1d91f58973bb0c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cf4c72b c2f8f76
+Author: meganAX <43099001+meganAX@users.noreply.github.com>
+Date:   Sat Sep 8 22:22:34 2018 +0200
+
+    Merge pull request #1 from meganAX/readme-edits
+    
+    Update README.md
+
+[33mcommit c2f8f76260fc576af93d974c649727c48df744ec[m[33m ([m[1;31morigin/readme-edits[m[33m)[m
+Author: meganAX <43099001+meganAX@users.noreply.github.com>
+Date:   Sat Sep 8 22:20:50 2018 +0200
+
+    Update README.md
+
+[33mcommit cf4c72bb4cdcd63ef037e42d114bba5d396b90b7[m
+Author: meganAX <43099001+meganAX@users.noreply.github.com>
+Date:   Sat Sep 8 22:15:58 2018 +0200
+
+    Initial commit
